@@ -1,4 +1,5 @@
 # Backend de Autenticación de Usuarios (Golang)
+# Repositorio Forkeado de Moisés Leiva, y modificado para uso actual.
 
 Este repositorio contiene la implementación de un microservicio de autenticación de usuarios utilizando Firebase y otros servicios en la nube. El proyecto fue desarrollado por mí, Moisés Leiva, como parte de mi trabajo como Desarrollador Full-stack en la empresa ficticia UtemTX, creada por los estudiantes de TSSW20241S `(Taller de Ingeniería de Software 2024 1S)`, en el cual también cumplí mi rol de ayudante del ramo.
 
